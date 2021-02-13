@@ -3,6 +3,7 @@ Rencana kontent
 -- ES6
 -- Framwork java scipts
 --- vue
+--- menambahkan twiland
 - Fundamental data dasar
 - belajar php
 -- Laravel
