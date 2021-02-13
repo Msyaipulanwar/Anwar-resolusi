@@ -1,4 +1,6 @@
 Rencana kontent
 - belajar java
+-- ES6
+-- Framwork java scipts
 - belajar php
 - belajar react
