@@ -2,7 +2,10 @@ Rencana kontent
 - belajar java
 -- ES6
 -- Framwork java scipts
--- angular
+--- vue
+--- menambahkan twiland
+- Fundamental data dasar
 - belajar php
--- laravel
+-- Laravel
 - belajar react
+- python
