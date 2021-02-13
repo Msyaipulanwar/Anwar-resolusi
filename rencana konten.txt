@@ -4,6 +4,7 @@ Rencana kontent
 -- Framwork java scipts
 --- vue
 --- menambahkan twiland
+--- angular
 - Fundamental data dasar
 - belajar php
 -- Laravel
