@@ -2,6 +2,9 @@ Rencana kontent
 - belajar java
 -- ES6
 -- Framwork java scipts
+--- vue
 - Fundamental data dasar
 - belajar php
+-- Laravel
 - belajar react
+- python
